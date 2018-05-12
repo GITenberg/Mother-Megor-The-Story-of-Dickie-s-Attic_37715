@@ -1,0 +1,25 @@
+_repo: Mother-Megor-The-Story-of-Dickie-s-Attic_37715
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37715-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor children -- Fiction'
+- !lcsh 'London (England) -- Social conditions -- 19th century -- Fiction'
+- !lcc 'PR'
+title: Mother-Meg; or, The Story of Dickie's Attic
+url: http://www.gutenberg.org/ebooks/37715
